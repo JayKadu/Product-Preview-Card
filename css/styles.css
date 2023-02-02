@@ -73,7 +73,7 @@ th{
   letter-spacing: 5px;
 }
 
-@media (max-width:1440px) {
+@media (max-width:375px) {
   .image1{
     width: 500px;
     border-radius: 10px 10px 0 0;
